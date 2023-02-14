@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "hello",
+			"path": "projects/django /hello"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/usr/local/bin/python3"
+	}
+}
